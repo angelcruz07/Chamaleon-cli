@@ -41,7 +41,7 @@ def apply_qtile_theme(theme_name):
 
 
 cli.add_command(list_themes)
-cli.add_command(set_qtile_theme)
+cli.add_command(apply_qtile_theme)
 
 
 def main():
